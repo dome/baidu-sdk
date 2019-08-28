@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dadeac30fc4ce0870be7430ade52d3573bc3e115/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/coordinatorlayout/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-coordinatorlayout-28.0.0_b1c512d5af39d9b3a6d4255ba29254c14d07d480/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.1.1_ca2ab53a77141c7d7b8511011f438252651a8b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/customview/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customview-28.0.0_e7d3cad8daa6ca2966e496eb15962227fdd24207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/print/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-print-28.0.0_3edd5b76b835b5c210effefe3de3df34a3229edc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-28.0.0_767383b0b6351e3f2fc199862e9dcc3887c15ede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.core-runtime-1.1.1_962c532979b582a57481cede543aa3c50eed428b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-28.0.0_37e1e7bc012e699a9a681036929fbc5667d06d64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-livedata-1.1.1_58dada7f067bdf8fa4c6d28e3288e132dda8bee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-28.0.0_ee30ab73ce9b67fac1a971632a98cc1197ba130a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/localbroadcastmanager/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-localbroadcastmanager-28.0.0_09d2eb02dc9daaa0439442c640a71af3e6fcd743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/documentfile/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-documentfile-28.0.0_97efd74b25cf71df15325c3b5d30b283eb6942a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-livedata-core-1.1.1_d422429bbfcc6868294fba06cfce56bb00f22e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-viewmodel-1.1.1_3e1f2f489b6d50a2b37058041401aa60d4c67d04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/viewpager/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-viewpager-28.0.0_14beb1c507ae27be283b95623b4aab893a8657e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_3bb9309f016c650172973c646b1da84d4d614800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/collections-28.0.0_e22e929fde1c56daa3eedb102c9518ac7acd7a2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/loader/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-loader-28.0.0_0b22c5e975b1a8e5c7886460baf7a8ea826b4995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-28.0.0_9f11fa41e811828f337a17025e2d2a9132af097b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_19866dc42768be6f8041c139c09b49bdb9279f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-28.0.0_7f01af6750380e78b25efa2c20469268b9884453/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/slidingpanelayout/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-slidingpanelayout-28.0.0_cd2340ac757d58011e1c7dbec37c5bc735ad1fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-28.0.0_0b451c7b924fdec09f074930cb2905f14b8cac70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/facelibrary/build/intermediates/bundles/release/libs/online_liantian_3-1-6-3-381_0808.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20bdf0501b61d2d578a15323768f2ea9958705c7">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/8/online_liantian_3-1-6-3-381_0808_b122b13d8fa29050bcd9cff10deba7b2dab26716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-28.0.0_cb13b02b14dced84e8689cefa7d6249abfc7713d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-28.0.0_4c46ab82c4770794586266102139b5eb64dfd1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/swiperefreshlayout/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-swiperefreshlayout-28.0.0_34e7376f2939e88f0272323d445b93de4d3ad4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/cursoradapter/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cursoradapter-28.0.0_60b9e1b0e9fac73b6f0726a458f6dcfda0460b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94e09062880984ead9e586d12c8eb10650049666">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a5519b2aa9e35646816e12f2ab343df2975d82ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/facelibrary/build/intermediates/bundles/release/libs/baidu_license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c158d782d7455c7bb87a70696f141e13378610b6">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/8/baidu_license_def0f78f7f12dcc52932d7eac963e58b5b913588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/drawerlayout/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-drawerlayout-28.0.0_43512e6478dc9c28823df155899a9e81f50d1f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/versionedparcelable/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-versionedparcelable-28.0.0_0e4f76e95f7f640fd26ecfabe96c4472efefcc3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/asynclayoutinflater/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-asynclayoutinflater-28.0.0_ac78c632c321018561cb79d09866c17b5dd44cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-28.0.0_30597d2a8bf852600acf2dc8b7bfaf30ea6f7b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/exploded-aar/com.android.support/interpolator/28.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/Users/tonghui/Android/3.x/face-sdk-android/FaceSDKAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-interpolator-28.0.0_f6a3a34dc8e76aef893d57ce3fcec6f63123b446/classes.dex" />
+    </item>
+
+</items>
